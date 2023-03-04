@@ -1,0 +1,38 @@
+.wrapper{
+    display: flex;
+    flex-direction: row-reverse;
+    background: #dfd090;
+    width: 800px; 
+    margin: auto;
+    
+}
+.menu-content{
+  margin-right: 150px;
+}
+.espresso-list{
+    font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+color: #3a2104;
+}
+.frappucino-list{
+    font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+color: #3a2104;
+}
+
+.tea-list{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #3a2104;
+    }
+
+.sidebar{
+    width: 608px;
+    margin-bottom: auto;
+}
